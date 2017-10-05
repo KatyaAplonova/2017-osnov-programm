@@ -2,7 +2,7 @@
 # text = Fayisali de kɛra Bamakɔ jumamisiriba jɔli sababu ye san 1976.
 1	Fayisali	Fayisali	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
 2	de	dè	PART	prt	_	_	_	_	Gloss=FOC
-3	kɛra	kɛ́ra	VERB	v	_	_	_	_	Gloss=faire
+3	kɛra	kɛ́ra	VERB	v	ASpect=Perf|Valency=1	_	_	_	Gloss=faire
 4	Bamakɔ	Bàmakɔ	PROPN	n.prop	_	_	_	_	Gloss=TOP
 5	jumamisiriba	jumamisiriba	NOUN	n	_	_	_	_	Gloss=vendredi
 6	jɔli	jɔli	NOUN	n	_	_	_	_	Gloss=dresser
@@ -16,7 +16,7 @@
 # text = Misiriba tɔgɔ dara sibiridon awirilikalo tile 8.
 1	Misiriba	misiriba	NOUN	n	_	_	_	_	Gloss=mosquée
 2	tɔgɔ	tɔ́gɔ	NOUN	n	_	_	_	_	Gloss=nom
-3	dara	dára	VERB	v	_	_	_	_	Gloss=poser
+3	dara	dára	VERB	v	ASpect=Perf|Valency=1	_	_	_	Gloss=poser
 4	sibiridon	síbiridon	NOUN	n	_	_	_	_	Gloss=samedi
 5	awirilikalo	áwirilikalo	NOUN	n	_	_	_	_	Gloss=avril
 6	tile	tìle	NOUN	n	_	_	_	_	Gloss=soleil
@@ -140,7 +140,7 @@
 34	misiriba	misiriba	NOUN	n	_	_	_	_	Gloss=mosquée
 35	jɔli	jɔli	NOUN	n	_	_	_	_	Gloss=dresser
 36	wari	wári	NOUN	n	_	_	_	_	Gloss=argent
-37	bɔra	bɔra	VERB	v	_	_	_	_	Gloss=sortir
+37	bɔra	bɔra	VERB	v	ASpect=Perf|Valency=1	_	_	_	Gloss=sortir
 38	olu	òlú	PRON	pers	PronType=Prs	_	_	_	Gloss=ce.PL2
 39	de	dè	PART	prt	_	_	_	_	Gloss=FOC
 40	kun	kùn	ADP	pp	_	_	_	_	Gloss=sur
@@ -256,7 +256,7 @@
 # sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:13
 # text = A jɔra k'a dayɛlɛ san 1948 nowanburukalo tile 12 Bozola.
 1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
-2	jɔra	jɔra	VERB	v	_	_	_	_	Gloss=dresser
+2	jɔra	jɔra	VERB	v	ASpect=Perf|Valency=1	_	_	_	Gloss=dresser
 3	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
 4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
 5	dayɛlɛ	dáyɛ̀lɛ	VERB	v	_	_	_	_	Gloss=ouvrir
@@ -279,7 +279,7 @@
 7	Buni	Buni	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
 8	Abuduli	Abuduli	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
 9	Azizi	Azizi	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
-10	nana	nana	VERB	v	_	_	_	_	Gloss=venir
+10	nana	nana	VERB	v	ASpect=Perf|Valency=1	_	_	_	Gloss=venir
 11	taama	táama	NOUN	n	_	_	_	_	Gloss=voyage
 12	na	ná	ADP	pp	_	_	_	_	Gloss=dans
 13	Mali	Màli	PROPN	n.prop	_	_	_	_	Gloss=TOP
@@ -305,7 +305,7 @@
 15	karama	kàrama	NOUN	n	_	_	_	_	Gloss=respect
 16	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
 17	min	mîn	DET	dtm	PronType=Rel	_	_	_	Gloss=REL
-18	tora	tora	VERB	v	_	_	_	_	Gloss=rester
+18	tora	tora	VERB	v	ASpect=Perf|Valency=1	_	_	_	Gloss=rester
 19	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
 20	hakili	hákili	NOUN	n	_	_	_	_	Gloss=esprit
 21	la	lá	ADP	pp	_	_	_	_	Gloss=dans
@@ -347,7 +347,7 @@
 1	O	ò	DET	dtm	_	_	_	_	Gloss=ce
 2	layidu	láyidu	NOUN	n	_	_	_	_	Gloss=promesse
 3	in	ìn	DET	dtm	_	_	_	_	Gloss=DEF
-4	tiimɛna	tiimɛna	VERB	v	_	_	_	_	Gloss=accomplir
+4	tiimɛna	tiimɛna	VERB	v	ASpect=Perf|Valency=1	_	_	_	Gloss=accomplir
 5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
 6	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
 7	san	sàn	NOUN	n	_	_	_	_	Gloss=année
@@ -364,7 +364,7 @@
 3	misiriba	misiriba	NOUN	n	_	_	_	_	Gloss=mosquée
 4	in	ìn	DET	dtm	_	_	_	_	Gloss=DEF
 5	tɔgɔ	tɔ́gɔ	NOUN	n	_	_	_	_	Gloss=nom
-6	dara	dára	VERB	v	_	_	_	_	Gloss=poser
+6	dara	dára	VERB	v	ASpect=Perf|Valency=1	_	_	_	Gloss=poser
 7	Fayisali	Fayisali	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
 8	la	lá	ADP	pp	_	_	_	_	Gloss=dans
 9	,	,	PUNCT	_	_	_	_	_	Gloss=,

@@ -1,10 +1,12 @@
 import sys
 import xml.etree.ElementTree as ET
 
-def get_udtags(lem, pos, gloss):
+def get_udtags(lem, pos, gloss, all_glosses):
 	""" Convert a tuple of (lemma, part-of-speech, gloss) to a UD part-of-speech
 	    tag and a list of morphological features """
 	tags = ['X', []]
+
+#	print(lem, pos, gloss, all_glosses, file=sys.stderr)
 
 	if lem in ',!?:;.':
 		return ['PUNCT', ['_']]
@@ -147,8 +149,13 @@ def get_udtags(lem, pos, gloss):
 	if gloss == '1PL':
 		tags[1].append('Number=Plur')
 		tags[1].append('Person=1')
+	if 'PFV.INTR' in all_glosses:
+		tags[1].append('ASpect=Perf')
+		tags[1].append('Valency=1')
 	if tags[1] == []:
 		tags[1] = ['_']
+
+#	print(tags,file=sys.stderr)
 
 	return tags
 def get_val(token, tip, attr):
@@ -156,10 +163,13 @@ def get_val(token, tip, attr):
 	# .//span[@class="lemma"]
 	# .//sub[@class="ps"]
 	val = token.findall('.//'+tip+'[@class="'+attr+'"]')
+	vals = []
+	for v in val:
+		vals.append(v.text)
 	if len(val) > 0:
-		return val[0].text
+		return (val[0].text, vals)
 	else:
-		return '_'
+		return ('_', [])
 
 # Load the HTML file
 tree = ET.parse(sys.argv[1])
@@ -193,17 +203,17 @@ for sent in root.findall('.//span[@class="sent"]'):
 		# The word form is the contents of the span
 		w = token.text
 		# Get the language-specific part-of-speech tag and the gloss
-		xpos = get_val(token, 'sub', 'ps');
-		gloss = get_val(token, 'sub', 'gloss');
+		(xpos, ps) = get_val(token, 'sub', 'ps');
+		(gloss, glosses)  = get_val(token, 'sub', 'gloss');
 		# If the type of token is punctuation, then the lemma is the 
 		# same as the surface form
 		if klass == 'c':
 			lem = w
 			gloss = w
 		else:
-			lem = get_val(token, 'span', 'lemma')
+			(lem, lemmes)  = get_val(token, 'span', 'lemma')
 		# Get the universal part of speech and list of features
-		(upos, feats) = get_udtags(lem, xpos, gloss);
+		(upos, feats) = get_udtags(lem, xpos, gloss, glosses);
 		# Print out the token line
 		print('%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s' % (tok_id, w, lem, upos, xpos, '|'.join(feats), '_', '_', '_','Gloss='+gloss))
 		# Increment the token id by 1
