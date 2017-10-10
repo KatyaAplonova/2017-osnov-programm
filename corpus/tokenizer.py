@@ -7,7 +7,7 @@ for i in range (0,len(text)):
 		continue
 	print("#sent_id =", i+1, "\n"+"#text=", line)
 	token_id = 1
-	punctuation = [",",",","?","!",";"]
+	punctuation = [".",",","?","!",";"]
 	for symbols in punctuation:
 		line = line.replace(symbols, ' ' + symbols)
 	sentence_id = line.split(' ')
