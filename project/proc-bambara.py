@@ -163,7 +163,7 @@ def get_udtags(lem, pos, gloss, all_glosses):
 	if 'DEF' in all_glosses:
 		tags[1].append('Definite=Def')
 	if 'PFV.INTR' in all_glosses:
-		tags[1].append('Aspectpect=Perf')
+		tags[1].append('Aspect=Perf')
 		tags[1].append('Valency=1')
 		tags[1].append('Polarity=Pos')
 	if 'PROG' in all_glosses:
