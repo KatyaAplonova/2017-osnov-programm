@@ -35,7 +35,7 @@ def get_udtags(lem, pos, gloss, all_glosses):
 		tags[0] = 'PRON'
 	if pos == 'pm':
 		tags[0] = 'AUX' 
-	if pos == 'conj' and lem in ["bàri", "jàa", "jàga", "kélen", "kòni", "nká", "nk'", "ô", "ôo", "wô", "tàrí", "tɛ̀rí", "wà", "wáa", "w'", "wálà", "wàlámà", "wàlímà", "wáli", "wó"]:
+	if pos == 'conj' and lem in ["bàri", "jàa", "jàga", "kélen", "kòni", "nká", "nk'", "ô", "ôo", "wô", "tàrí", "tɛ̀rí", "wà", "wáa", "w'", "wálà", "wàlámà", "wàlímà", "wáli", "wó","àni"]:
 		tags[0] = 'CCONJ'
 	if pos == 'conj' and lem in ["bárì", "bárìsá", "bárì sá", "báwò", "bɛ́ɛ", "bína", "bíɲa", "dàma", "dɔ́rɔn", "jànkó", "jàngó", "kàsɔrɔ", "kàtugu", "kàtuguni", "kɔ́ntɛ̀", "mînkɛ́", "mînkɛ́ni", "ní", "n'ó tɛ́","n'",  "nóntɛ́", "nɔ́ntɛ", "sá", "sábu", "sáabu", "sábi", "sábula", "sàfɛ", "sánì", "sánni", "sán'", "sánn'", "sànkó", "sàngó", "tɛ́sɛ", "tílen", "wálasa", "wáasa", "wálisa", "yáa", "yála", "yálasa", "yáasa", "yála", "yálisa", "jáasa", "yànni", "yànn'", "yàli"]:
 		tags[0] = 'SCONJ'
