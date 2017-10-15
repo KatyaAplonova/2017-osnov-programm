@@ -206,7 +206,15 @@ def get_udtags(lem, pos, gloss, all_glosses):
 		tags[1].append('Voice=Cau')
 	if tags[1] == []:
 		tags[1] = ['_']
-
+#now two ni
+	if lem == "ní́" and 'et' in gloss:
+		tags[0] = 'CCONJ'
+	if lem == "n'" and 'et' in gloss:	
+		tags[0] = 'CCONJ'
+	if lem == "ní" and 'si' in gloss:
+		tags[0] = 'SCONJ'
+	if lem == "n'" and 'si' in gloss:
+		tags[0] = 'SCONJ'
 #	print(tags,file=sys.stderr)
 
 	return tags
