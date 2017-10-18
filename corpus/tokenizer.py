@@ -13,7 +13,7 @@ for i in range (0,len(text)):
 	sentence_id = line.split(' ')
 	tokens = line.split(" ") 
 	for token in tokens:
-		print('%d\t%s'\t_\t_\t_\t_\t_\t_\t_\t_ % (token_id, token))
+		print('%d\t%s%'\t_\t_\t_\t_\t_\t_\t_\t_'(token_id, token))
 		token_id = token_id + 1
 	print()
 
