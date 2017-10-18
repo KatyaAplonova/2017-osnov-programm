@@ -1,6 +1,7 @@
 import sys
-text = sys.stdin.readlines()
-sentence_1 = 1
+
+lines = sys.stdin.readlines()
+	print('#', line)
 for i in range (0,len(text)):
 	line = text[i].strip()
 	if line == "":
@@ -13,7 +14,7 @@ for i in range (0,len(text)):
 	sentence_id = line.split(' ')
 	tokens = line.split(" ") 
 	for token in tokens:
-		print('%d\t%s%'\t_\t_\t_\t_\t_\t_\t_\t_(token_id, token))
+		print((token_id, token)\t_\t_\t_\t_\t_\t_\t_\t_)
 		token_id = token_id + 1
 	print()
 
