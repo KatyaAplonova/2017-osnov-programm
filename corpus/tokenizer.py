@@ -1,8 +1,8 @@
 import sys
 
 lines = sys.stdin.readlines()
-	print('# sent_id = %s:%d' % (doc_id, sent_id))
-	print('# text = %s' % (sent.text.strip()))
+print('# sent_id = %s:%d' % (doc_id, sent_id))
+print('# text = %s' % (sent.text.strip()))
 tok_id = 1
 punctuation = ['߸',':']
         for symbols in punctuation:
