@@ -1,8 +1,8 @@
 import sys
 
-vocab = sys.stdin.readlines()
+lines = sys.stdin.readlines()
 
-table = []
+table = {}
 
 fd = open('symbols.tsv')
 for line in fd.readlines():
@@ -11,7 +11,7 @@ for line in fd.readlines():
 	inn = line[0]
 	out = line[1]
 	table[inn] = out
-print a in vocab:
+for a in lines:
 	a = a.strip()
 	if a.count('\t') != 9:
 		print(a)
@@ -19,6 +19,6 @@ print a in vocab:
 	line = a.split('\t')
 	form = line[1]
 	for sym in table:
-		form = form.replace(sym. table[sym])
+		form = form.replace(sym, table[sym])
 	line[9] = form
 	print('\t'.join(line))
