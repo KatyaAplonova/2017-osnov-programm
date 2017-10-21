@@ -1,0 +1,386 @@
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:1
+# text = Fayisali de kɛra Bamakɔ jumamisiriba jɔli sababu ye san 1976.
+1	Fayisali	Fayisali	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
+2	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+3	kɛra	kɛ́ra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire
+4	Bamakɔ	Bàmakɔ	PROPN	n.prop	_	_	_	_	Gloss=TOP
+5	jumamisiriba	jumamisiriba	NOUN	n	_	_	_	_	Gloss=vendredi
+6	jɔli	jɔli	NOUN	n	VerbalForm=Vnoun	_	_	_	Gloss=dresser
+7	sababu	sábabu	NOUN	n	_	_	_	_	Gloss=cause
+8	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+9	san	sàn	NOUN	n	_	_	_	_	Gloss=année
+10	1976	1976	NUM	num	NumType=Card	_	_	_	Gloss=CARDINAL
+11	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:2
+# text = Misiriba tɔgɔ dara sibiridon awirilikalo tile 8.
+1	Misiriba	misiriba	NOUN	n	_	_	_	_	Gloss=mosquée
+2	tɔgɔ	tɔ́gɔ	NOUN	n	_	_	_	_	Gloss=nom
+3	dara	dára	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=poser
+4	sibiridon	síbiridon	NOUN	n	_	_	_	_	Gloss=samedi
+5	awirilikalo	áwirilikalo	NOUN	n	_	_	_	_	Gloss=avril
+6	tile	tìle	NOUN	n	_	_	_	_	Gloss=soleil
+7	8	8	NUM	num	NumType=Card	_	_	_	Gloss=CARDINAL
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:3
+# text = A ɲɛmɔgɔya tun bɛ diinɛko ni bato minisiri bolo, Cɛrino Amadu Umaru Hasi Jalo.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ɲɛmɔgɔya	ɲɛ́mɔgɔya	NOUN	n	_	_	_	_	Gloss=autorité
+3	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+4	bɛ	bɛ́	AUX	cop	Polarity=Pos	_	_	_	Gloss=BE
+5	diinɛko	díinɛko	NOUN	n	_	_	_	_	Gloss=religion
+6	ni	ní	SCONJ	conj	_	_	_	_	Gloss=et
+7	bato	bàto	NOUN	n	_	_	_	_	Gloss=adoration
+8	minisiri	mínisiri	NOUN	n	_	_	_	_	Gloss=ministre
+9	bolo	bólo	ADP	pp	_	_	_	_	Gloss=CNTRL
+10	,	,	PUNCT	_		_	_	_	Gloss=,
+11	Cɛrino	Cɛrino	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+12	Amadu	Ámadù	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+13	Umaru	Úmarù	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+14	Hasi	Hasi	PROPN	n.prop	_	_	_	_	Gloss=NOM
+15	Jalo	Jàlo	PROPN	n.prop	_	_	_	_	Gloss=NOM.CL
+16	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:4
+# text = Makan lasigiden, Masiwudi Bili Orabu Aharati tun b'a kɛnɛ kan.
+1	Makan	Mákan	PROPN	n.prop	_	_	_	_	Gloss=TOP
+2	lasigiden	làsigiden	NOUN	n	Voice=Cau	_	_	_	Gloss=ambassadeur
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	Masiwudi	Masiwudi	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
+5	Bili	Bili	PROPN	n.prop	_	_	_	_	Gloss=NOM.ENG
+6	Orabu	Orabu	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
+7	Aharati	Aharati	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
+8	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+9	b'	b'	AUX	cop	Polarity=Pos	_	_	_	Gloss=BE
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+11	kɛnɛ	kɛ́nɛ	NOUN	n	_	_	_	_	Gloss=clarté
+12	kan	kàn	ADP	pp	_	_	_	_	Gloss=sur
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:5
+# text = Mali silamɛtɔnba ɲɛmɔgɔ Mahamudu Diko, misiriba alimami, Mahamudu Kale, olu tun b'a kɛnɛ kan.
+1	Mali	Màli	PROPN	n.prop	_	_	_	_	Gloss=TOP
+2	silamɛtɔnba	silamɛtɔnba	NOUN	n	_	_	_	_	Gloss=musulman
+3	ɲɛmɔgɔ	ɲɛ́mɔgɔ	NOUN	n	_	_	_	_	Gloss=dirigeant
+4	Mahamudu	Mahamadu	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+5	Diko	Dikko	PROPN	n.prop	_	_	_	_	Gloss=NOM.CL
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	misiriba	misiriba	NOUN	n	_	_	_	_	Gloss=mosquée
+8	alimami	àlimami	NOUN	n	_	_	_	_	Gloss=imam
+9	,	,	PUNCT	_		_	_	_	Gloss=,
+10	Mahamudu	Mahamadu	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+11	Kale	Kale	PROPN	n.prop	_	_	_	_	Gloss=NOM.CL
+12	,	,	PUNCT	_		_	_	_	Gloss=,
+13	olu	òlú	PRON	pers	PronType=Prs|Number=Plur	_	_	_	Gloss=ce.PL2
+14	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+15	b'	b'	AUX	cop	Polarity=Pos	_	_	_	Gloss=BE
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+17	kɛnɛ	kɛ́nɛ	NOUN	n	_	_	_	_	Gloss=clarté
+18	kan	kàn	ADP	pp	_	_	_	_	Gloss=sur
+19	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:6
+# text = Silamɛjamanaw ka lasigidenw, Bamakɔ sigibaga fɔlɔw,  ani diinɛɲɛmɔgɔw, olu caman tun b'a kɛnɛ kan.
+1	Silamɛjamanaw	silamɛjamanaw	NOUN	n	Number=Plur	_	_	_	Gloss=musulman
+2	ka	ká	ADP	pp	_	_	_	_	Gloss=POSS
+3	lasigidenw	lasigidenw	NOUN	n	Number=Plur|Voice=Cau	_	_	_	Gloss=ambassadeur
+4	,	,	PUNCT	_		_	_	_	Gloss=,
+5	Bamakɔ	Bàmakɔ	PROPN	n.prop	_	_	_	_	Gloss=TOP
+6	sigibaga	sìgi.baga	NOUN	n	_	_	_	_	Gloss=qui.s'assied
+7	fɔlɔw	fɔlɔw	NOUN	n	Number=Plur	_	_	_	Gloss=premier
+8	,	,	PUNCT	_		_	_	_	Gloss=,
+9	ani	àni	CCONJ	conj	_	_	_	_	Gloss=ainsi.que
+10	diinɛɲɛmɔgɔw	diinɛɲɛmɔgɔw	NOUN	n	Number=Plur	_	_	_	Gloss=chef.religieux
+11	,	,	PUNCT	_		_	_	_	Gloss=,
+12	olu	òlú	PRON	pers	PronType=Prs|Number=Plur	_	_	_	Gloss=ce.PL2
+13	caman	cáman	ADJ	adj	AdjType=Attr	_	_	_	Gloss=nombreux
+14	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+15	b'	b'	AUX	cop	Polarity=Pos	_	_	_	Gloss=BE
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+17	kɛnɛ	kɛ́nɛ	NOUN	n	_	_	_	_	Gloss=clarté
+18	kan	kàn	ADP	pp	_	_	_	_	Gloss=sur
+19	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:7
+# text = Abubakari Sidiki Ture, Bamakɔ Turelakaw ka ciden ye kuma ta sigibaga fɔlɔw ka denbaya saba tɔgɔ la (Ɲaare, Ture, Darawe), ka Makanjamana waleɲumandɔn, ka da a kan misiriba jɔli wari bɔra olu de kun.
+1	Abubakari	Abubakari	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+2	Sidiki	Sìdikì	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+3	Ture	Tùre	PROPN	n.prop	_	_	_	_	Gloss=NOM.CL
+4	,	,	PUNCT	_		_	_	_	Gloss=,
+5	Bamakɔ	Bàmakɔ	PROPN	n.prop	_	_	_	_	Gloss=TOP
+6	Turelakaw	turelakaw	NOUN	n	Number=Plur	_	_	_	Gloss=NOM.CL
+7	ka	ká	ADP	pp	_	_	_	_	Gloss=POSS
+8	ciden	cíden	NOUN	n	_	_	_	_	Gloss=envoyé
+9	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+10	kuma	kúma	NOUN	n	_	_	_	_	Gloss=parole
+11	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+12	sigibaga	sìgi.baga	NOUN	n	_	_	_	_	Gloss=qui.s'assied
+13	fɔlɔw	fɔlɔw	NOUN	n	Number=Plur	_	_	_	Gloss=premier
+14	ka	ká	ADP	pp	_	_	_	_	Gloss=POSS
+15	denbaya	dénbaya	NOUN	n	_	_	_	_	Gloss=famille
+16	saba	sàba	NUM	num	_	_	_	_	Gloss=trois
+17	tɔgɔ	tɔ́gɔ	NOUN	n	_	_	_	_	Gloss=nom
+18	la	lá	ADP	pp	_	_	_	_	Gloss=dans
+19	(	(	X	_	_	_	_	_	Gloss=(
+20	Ɲaare	Ɲàare	PROPN	n.prop	_	_	_	_	Gloss=NOM.CL
+21	,	,	PUNCT	_		_	_	_	Gloss=,
+22	Ture	Tùre	PROPN	n.prop	_	_	_	_	Gloss=NOM.CL
+23	,	,	PUNCT	_		_	_	_	Gloss=,
+24	Darawe	Darawe	PROPN	n.prop	_	_	_	_	Gloss=NOM.CL
+25	),	),	X	_	_	_	_	_	Gloss=),
+26	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+27	Makanjamana	mákanjamana	NOUN	n	_	_	_	_	Gloss=Arabie.saoudite
+28	waleɲumandɔn	wáleɲumandɔn	VERB	v	_	_	_	_	Gloss=avoir.gratitude
+29	,	,	PUNCT	_		_	_	_	Gloss=,
+30	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+31	da	dá	VERB	v	_	_	_	_	Gloss=poser
+32	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+33	kan	kàn	ADP	pp	_	_	_	_	Gloss=sur
+34	misiriba	misiriba	NOUN	n	_	_	_	_	Gloss=mosquée
+35	jɔli	jɔli	NOUN	n	VerbalForm=Vnoun	_	_	_	Gloss=dresser
+36	wari	wári	NOUN	n	_	_	_	_	Gloss=argent
+37	bɔra	bɔra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=sortir
+38	olu	òlú	PRON	pers	PronType=Prs|Number=Plur	_	_	_	Gloss=ce.PL2
+39	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+40	kun	kùn	ADP	pp	_	_	_	_	Gloss=sur
+41	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:8
+# text = A ye foli di jamanakuntigi ma ka da a ka hakili ɲuman kan.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	foli	fòli	NOUN	n	VerbalForm=Vnoun	_	_	_	Gloss=salutation
+4	di	dí	VERB	v	_	_	_	_	Gloss=donner
+5	jamanakuntigi	jàmanakuntigi	NOUN	n	_	_	_	_	Gloss=président
+6	ma	mà	ADP	pp	_	_	_	_	Gloss=à
+7	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+8	da	dá	VERB	v	_	_	_	_	Gloss=poser
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	ka	ká	ADP	pp	_	_	_	_	Gloss=POSS
+11	hakili	hákili	NOUN	n	_	_	_	_	Gloss=esprit
+12	ɲuman	ɲùman	ADJ	adj	_	_	_	_	Gloss=bon
+13	kan	kàn	ADP	pp	_	_	_	_	Gloss=sur
+14	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:9
+# text = Bamakɔ dugulenw ka ciden ye misiriba tariki ɲɛfɔ mɔgɔw ye.
+1	Bamakɔ	Bàmakɔ	PROPN	n.prop	_	_	_	_	Gloss=TOP
+2	dugulenw	dugulenw	NOUN	n	Number=Plur	_	_	_	Gloss=villageois
+3	ka	ká	ADP	pp	_	_	_	_	Gloss=POSS
+4	ciden	cíden	NOUN	n	_	_	_	_	Gloss=envoyé
+5	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+6	misiriba	misiriba	NOUN	n	_	_	_	_	Gloss=mosquée
+7	tariki	táriki	NOUN	n	_	_	_	_	Gloss=histoire
+8	ɲɛfɔ	ɲɛ́fɔ	VERB	v	_	_	_	_	Gloss=expliquer
+9	mɔgɔw	mɔgɔw	NOUN	n	Number=Plur	_	_	_	Gloss=homme
+10	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+11	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:10
+# text = A y'a jira ko tubabuw natuma Bamakɔ san 1883, o y'a sɔrɔ misiri kelen de bɛ dugu kɔnɔ, Dabanaani na.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	jira	jìra	VERB	v	_	_	_	_	Gloss=montrer
+5	ko	kó	AUX	cop	_	_	_	_	Gloss=QUOT
+6	tubabuw	tubabuw	NOUN	n	Number=Plur	_	_	_	Gloss=Européen
+7	natuma	natuma	NOUN	n	_	_	_	_	Gloss=venue
+8	Bamakɔ	Bàmakɔ	PROPN	n.prop	_	_	_	_	Gloss=TOP
+9	san	sàn	NOUN	n	_	_	_	_	Gloss=année
+10	1883	1883	NUM	num	NumType=Card	_	_	_	Gloss=CARDINAL
+11	,	,	PUNCT	_		_	_	_	Gloss=,
+12	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+13	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+15	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+16	misiri	mìsiri	NOUN	n	_	_	_	_	Gloss=mosquée
+17	kelen	kélen	NUM	num	_	_	_	_	Gloss=un
+18	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+19	bɛ	bɛ́	AUX	cop	Polarity=Pos	_	_	_	Gloss=BE
+20	dugu	dùgu	NOUN	n	_	_	_	_	Gloss=terre
+21	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=à.l’intérieur
+22	,	,	PUNCT	_		_	_	_	Gloss=,
+23	Dabanaani	Dabanaani	PROPN	n.prop	_	_	_	_	Gloss=TOP
+24	na	ná	ADP	pp	_	_	_	_	Gloss=dans
+25	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:11
+# text = O dɔgɔyalen jama na, Ɲaarew y'a ɲini ka misiriba dɔ jɔ Bozola San 1909.
+1	O	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	dɔgɔyalen	dɔgɔyalen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=amoindrir
+3	jama	jàma	NOUN	n	_	_	_	_	Gloss=foule
+4	na	ná	ADP	pp	_	_	_	_	Gloss=dans
+5	,	,	PUNCT	_		_	_	_	Gloss=,
+6	Ɲaarew	ɲaarew	PROPN	n.prop	Number=Plur	_	_	_	Gloss=NOM.CL
+7	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+9	ɲini	ɲíni	VERB	v	_	_	_	_	Gloss=chercher
+10	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+11	misiriba	misiriba	NOUN	n	_	_	_	_	Gloss=mosquée
+12	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+13	jɔ	jɔ̀	VERB	v	_	_	_	_	Gloss=dresser
+14	Bozola	Bózola	PROPN	n.prop	_	_	_	_	Gloss=TOP
+15	San	sàn	NOUN	n	_	_	_	_	Gloss=année
+16	1909	1909	NUM	num	NumType=Card	_	_	_	Gloss=CARDINAL
+17	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:12
+# text = San 1935, gɔfɛrɛnɛri Luwo min tun bɛ Bamakɔ kunna o don, o ye yamaruya di Ɲaarew ma u ka misiri in jɔ.
+1	San	sàn	NOUN	n	_	_	_	_	Gloss=année
+2	1935	1935	NUM	num	NumType=Card	_	_	_	Gloss=CARDINAL
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	gɔfɛrɛnɛri	gɔfɛrɛnɛri	NOUN	n	_	_	_	_	Gloss=gouverneur
+5	Luwo	Luwo	PROPN	n.prop	_	_	_	_	Gloss=NOM.FRA
+6	min	mîn	DET	dtm	PronType=Rel	_	_	_	Gloss=REL
+7	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+8	bɛ	bɛ́	AUX	cop	Polarity=Pos	_	_	_	Gloss=BE
+9	Bamakɔ	Bàmakɔ	PROPN	n.prop	_	_	_	_	Gloss=TOP
+10	kunna	kùnna	ADP	pp	_	_	_	_	Gloss=au.dessus
+11	o	ò	DET	dtm	_	_	_	_	Gloss=ce
+12	don	dón	NOUN	n	_	_	_	_	Gloss=jour
+13	,	,	PUNCT	_		_	_	_	Gloss=,
+14	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+15	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+16	yamaruya	yàmaruya	NOUN	n	_	_	_	_	Gloss=autorisation
+17	di	dí	VERB	v	_	_	_	_	Gloss=donner
+18	Ɲaarew	ɲaarew	PROPN	n.prop	Number=Plur	_	_	_	Gloss=NOM.CL
+19	ma	mà	ADP	pp	_	_	_	_	Gloss=à
+20	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+21	ka	ká	AUX	pm	Mood=Subj|Polarity=Aff	_	_	_	Gloss=SBJV
+22	misiri	mìsiri	NOUN	n	_	_	_	_	Gloss=mosquée
+23	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+24	jɔ	jɔ̀	VERB	v	_	_	_	_	Gloss=dresser
+25	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:13
+# text = A jɔra k'a dayɛlɛ san 1948 nowanburukalo tile 12 Bozola.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	jɔra	jɔra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=dresser
+3	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	dayɛlɛ	dáyɛ̀lɛ	VERB	v	_	_	_	_	Gloss=ouvrir
+6	san	sàn	NOUN	n	_	_	_	_	Gloss=année
+7	1948	1948	NUM	num	NumType=Card	_	_	_	Gloss=CARDINAL
+8	nowanburukalo	nòwanburukalo	NOUN	n	_	_	_	_	Gloss=novembre
+9	tile	tìle	NOUN	n	_	_	_	_	Gloss=soleil
+10	12	12	NUM	num	NumType=Card	_	_	_	Gloss=CARDINAL
+11	Bozola	Bózola	PROPN	n.prop	_	_	_	_	Gloss=TOP
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:14
+# text = San 1666, Makanjamana Masakɛ Fayisali Buni Abuduli Azizi nana taama na Mali kɔnɔ.
+1	San	sàn	NOUN	n	_	_	_	_	Gloss=année
+2	1666	1666	NUM	num	NumType=Card	_	_	_	Gloss=CARDINAL
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	Makanjamana	mákanjamana	NOUN	n	_	_	_	_	Gloss=Arabie.saoudite
+5	Masakɛ	màsakɛ	NOUN	n	_	_	_	_	Gloss=roi
+6	Fayisali	Fayisali	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
+7	Buni	Buni	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
+8	Abuduli	Abuduli	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+9	Azizi	Azizi	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
+10	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir
+11	taama	táama	NOUN	n	_	_	_	_	Gloss=voyage
+12	na	ná	ADP	pp	_	_	_	_	Gloss=dans
+13	Mali	Màli	PROPN	n.prop	_	_	_	_	Gloss=TOP
+14	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=à.l’intérieur
+15	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:15
+# text = Silamɛw y'a ni peresidan Modibo Keyita bisimila misiriba in kɔnɔ ni bonya ni karama ye min tora a hakili la.
+1	Silamɛw	silamɛw	NOUN	n	Number=Plur	_	_	_	Gloss=musulman
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	ni	ní	SCONJ	conj	_	_	_	_	Gloss=et
+5	peresidan	peresidan	NOUN	n	_	_	_	_	Gloss=président
+6	Modibo	Módibo	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+7	Keyita	Kéyità	PROPN	n.prop	_	_	_	_	Gloss=NOM.CL
+8	bisimila	bìsimila	VERB	v	_	_	_	_	Gloss=accueillir
+9	misiriba	misiriba	NOUN	n	_	_	_	_	Gloss=mosquée
+10	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+11	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=à.l’intérieur
+12	ni	ní	SCONJ	conj	_	_	_	_	Gloss=et
+13	bonya	bònya	NOUN	n	_	_	_	_	Gloss=grosseur
+14	ni	ní	SCONJ	conj	_	_	_	_	Gloss=et
+15	karama	kàrama	NOUN	n	_	_	_	_	Gloss=respect
+16	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+17	min	mîn	DET	dtm	PronType=Rel	_	_	_	Gloss=REL
+18	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=rester
+19	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+20	hakili	hákili	NOUN	n	_	_	_	_	Gloss=esprit
+21	la	lá	ADP	pp	_	_	_	_	Gloss=dans
+22	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:16
+# text = O kosɔn, a ye layidu ta k'a bɛ misiri in ci k'a jɔ kura ye, k'a bonya, k'a cɛɲɛ kosɛbɛ.
+1	O	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	kosɔn	kósɔ̀n	ADP	pp	_	_	_	_	Gloss=à.cause.de
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+6	layidu	láyidu	NOUN	n	_	_	_	_	Gloss=promesse
+7	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+8	k'	k'	AUX	cop	_	_	_	_	Gloss=QUOT
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	bɛ	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+11	misiri	mìsiri	NOUN	n	_	_	_	_	Gloss=mosquée
+12	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+13	ci	cì	VERB	v	_	_	_	_	Gloss=frapper
+14	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+16	jɔ	jɔ̀	VERB	v	_	_	_	_	Gloss=dresser
+17	kura	kúra	NOUN	n	_	_	_	_	Gloss=nouveau
+18	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+19	,	,	PUNCT	_		_	_	_	Gloss=,
+20	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+21	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+22	bonya	bònya	VERB	v	_	_	_	_	Gloss=grossir
+23	,	,	PUNCT	_		_	_	_	Gloss=,
+24	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+25	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+26	cɛɲɛ	cɛ̀.ɲɛ	VERB	v	_	_	_	_	Gloss=être.beau
+27	kosɛbɛ	kósɛbɛ	ADV	adv	_	_	_	_	Gloss=très.bien
+28	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:17
+# text = O layidu in tiimɛna a fɛ san 1976, musatile la.
+1	O	ò	DET	dtm	_	_	_	_	Gloss=ce
+2	layidu	láyidu	NOUN	n	_	_	_	_	Gloss=promesse
+3	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+4	tiimɛna	tiimɛna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=accomplir
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
+7	san	sàn	NOUN	n	_	_	_	_	Gloss=année
+8	1976	1976	NUM	num	NumType=Card	_	_	_	Gloss=CARDINAL
+9	,	,	PUNCT	_		_	_	_	Gloss=,
+10	musatile	musatile	NOUN	n	_	_	_	_	Gloss=NOM.M
+11	la	lá	ADP	pp	_	_	_	_	Gloss=dans
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:18
+# text = N'o misiriba in tɔgɔ dara Fayisali la, a n'o ka kan fasayi.
+1	N'	n'	SCONJ	conj	_	_	_	_	Gloss=si
+2	o	ò	DET	dtm	_	_	_	_	Gloss=ce
+3	misiriba	misiriba	NOUN	n	_	_	_	_	Gloss=mosquée
+4	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+5	tɔgɔ	tɔ́gɔ	NOUN	n	_	_	_	_	Gloss=nom
+6	dara	dára	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=poser
+7	Fayisali	Fayisali	PROPN	n.prop	_	_	_	_	Gloss=NOM.ARB
+8	la	lá	ADP	pp	_	_	_	_	Gloss=dans
+9	,	,	PUNCT	_		_	_	_	Gloss=,
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+11	n'	n'	SCONJ	conj	_	_	_	_	Gloss=si
+12	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+13	ka	ká	AUX	pm	Polarity=Pos	_	_	_	Gloss=QUAL.AFF
+14	kan	kán	VERB	vq	_	_	_	_	Gloss=égal
+15	fasayi	fásayi	ADV	adv	_	_	_	_	Gloss=définitivement
+16	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:19
+# text = Yusufu Dunbuya, Mahamadu Kɔnta
+1	Yusufu	Yusufu	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+2	Dunbuya	Dunbuya	PROPN	n.prop	_	_	_	_	Gloss=NOM.CL
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	Mahamadu	Mahamadu	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+5	Kɔnta	Kɔ̀nta	PROPN	n.prop	_	_	_	_	Gloss=NOM.CL
+

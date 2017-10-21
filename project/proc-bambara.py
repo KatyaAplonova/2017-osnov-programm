@@ -6,6 +6,8 @@ def get_udtags(lem, pos, gloss, all_glosses):
 	    tag and a list of morphological features """
 	tags = ['X', []]
 
+	if lem in [',', '.', '!', '"', ';', ':']:
+		return ['PUNCT',[]]
 #	print(lem, pos, gloss, all_glosses, file=sys.stderr)
 #	part of speech tags
 	if pos == 'adj':
@@ -43,9 +45,9 @@ def get_udtags(lem, pos, gloss, all_glosses):
 		tags[0] = 'AUX'
 	if pos == 'pp':
 		tags[0] = 'ADP'
-	if pos == 'dtm'
+	if pos == 'dtm':
 		tags[0] = 'DET'
-	if pos == 'prt'
+	if pos == 'prt':
 		tags[0] = 'PART'
 #	then glosses
 	if gloss == 'ABR':
