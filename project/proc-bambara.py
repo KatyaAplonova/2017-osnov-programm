@@ -6,7 +6,7 @@ def get_udtags(lem, pos, gloss, all_glosses):
 	    tag and a list of morphological features """
 	tags = ['X', []]
 
-	if lem in [',', '.', '!', '"', ';', ':']:
+	if lem in [',', '.', '!', '"', ';', ':', '(', ')']:
 		return ['PUNCT',[]]
 #	print(lem, pos, gloss, all_glosses, file=sys.stderr)
 #	part of speech tags
@@ -248,7 +248,7 @@ sent_id = 1
 # For each of the sentences in the file
 for sent in root.findall('.//span[@class="sent"]'):
 	# If the sentence has some kind of HTML tag in, skip it.
-	if sent.text.count('<h') > 0:
+	if sent.text.count('<h') > 0 or sent.text.count('<c') > 0:
 		continue
 	# Print out the sentence ID and the original text as a comment
 	print('# sent_id = %s:%d' % (doc_id, sent_id))
@@ -257,6 +257,7 @@ for sent in root.findall('.//span[@class="sent"]'):
 	# Find all the tokens in the sentence
 	tokens = sent.findall(".//span")
 	for token in tokens:
+		morf = ''
 		# What kind of token are we looking at?
 		klass = token.attrib["class"] 
 		# If the token is not punctuation or a word then skip it.
@@ -274,10 +275,15 @@ for sent in root.findall('.//span[@class="sent"]'):
 			gloss = w
 		else:
 			(lem, lemmes)  = get_val(token, 'span', 'lemma')
+			(m, mg) = get_val(token, 'sub', 'gloss')
+			morf = morf + ','.join(mg)
 		# Get the universal part of speech and list of features
 		(upos, feats) = get_udtags(lem, xpos, gloss, glosses);
 		# Print out the token line
-		print('%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s' % (tok_id, w, lem, upos, xpos, '|'.join(feats), '_', '_', '_','Gloss='+gloss))
+		if morf.strip() == '' or morf == gloss:
+			print('%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s' % (tok_id, w, lem, upos, xpos, '|'.join(feats), '_', '_', '_','Gloss='+gloss))
+		else:
+			print('%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s' % (tok_id, w, lem, upos, xpos, '|'.join(feats), '_', '_', '_','Gloss='+gloss+ '|Morf=' + morf))
 		# Increment the token id by 1
 		tok_id = tok_id + 1
 		count_tok = count_tok + 1
