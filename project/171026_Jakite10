@@ -1,0 +1,269 @@
+# sent_id = jakite-dolominbana.dis.html:1
+# text = ɲɛbila</h>Dɔlɔ ye fɛn ye, min ye ne dabaliya ban.
+1	ɲɛbila	ɲɛ́bila	NOUN	n	_	_	_	_	Gloss=guide|Morf=guide,oeil,abandon
+2	Dɔlɔ	dɔ̀lɔ	NOUN	n	_	4	nsubj	_	Gloss=bière.de.mil
+3	ye	yé	AUX	cop	Polarity=Pos	4	cop	_	Gloss=EQU
+4	fɛn	fɛ́n	NOUN	n	_	11	nsubj	_	Gloss=chose
+5	ye	yé	ADP	pp	_	4	case	_	Gloss=PP
+6	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+7	min	mín	PRON	prn	PronType=Rel	4	acl	_	Gloss=REL
+8	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	11	aux	_	Gloss=PFV.TR
+9	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	10	nmod:poss	_	Gloss=1SG.EMPH
+10	dabaliya	dabaliya	NOUN	n	_	_	_	_	Gloss=moyen|Morf=moyen,ABSTR
+11	ban	bán	VERB	v	_	_	_	_	Gloss=terminer
+12	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+
+# sent_id = jakite-dolominbana.dis.html:2
+# text = Biko ma dɔlɔ bila diɲɛ na.
+1	Biko	biko	NOUN	n	_	4	nsubj	_	Gloss=aujourd'hui|Morf=aujourd'hui,affaire
+2	ma	má	AUX	pm	Polarity=Neg|Aspect=Perf	4	aux	_	Gloss=PFV.NEG
+3	dɔlɔ	dɔ̀lɔ	NOUN	n	_	4	obj	_	Gloss=bière.de.mil
+4	bila	bìla	VERB	v	_	_	_	_	Gloss=mettre
+5	diɲɛ	díɲɛ	NOUN	n	_	4	obl	_	Gloss=monde
+6	na	ná	ADP	pp	_	5	case	_	Gloss=dans
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = jakite-dolominbana.dis.html:3
+# text = A dɔnnen don diɲɛ seleke naani bɛɛ kɔnɔ.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	dɔnnen	dɔnnen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	1	nmod	_	Gloss=connaître|Morf=connaître,PTCP.RES
+3	don	dòn	AUX	cop	_	2	cop	_	Gloss=PRES
+4	diɲɛ	díɲɛ	NOUN	n	_	5	nmod:poss	_	Gloss=monde
+5	seleke	séleke	NOUN	n	_	1	obl	_	Gloss=angle
+6	naani	náani	NUM	num	_	5	nummod	_	Gloss=quatre
+7	bɛɛ	bɛ́ɛ	DET	dtm	_	6	det	_	Gloss=tout
+8	kɔnɔ	kɔ́nɔ	ADP	pp	_	7	case	_	Gloss=à.l’intérieur
+9	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = jakite-dolominbana.dis.html:4
+# text = A bɛ min kɛ mɔgɔ la, bɛɛ b’o dɔn, nka fɛn don min masala man di mɔgɔ si ye k’a ta dɔlɔminna na ka taa bila dɔlɔfeerela la, k’a ta dɔlɔ dilanna na ka taa a bila dɔlɔminbali la, mɔgɔ si t’a fɛ ka dɔlɔ mankutu fɔ.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	bɛ	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	4	aux	_	Gloss=IPFV.AFF
+3	min	mín	PRON	prn	PronType=Rel	4	obj	_	Gloss=REL
+4	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+5	mɔgɔ	mɔ̀gɔ	NOUN	n	_	4	iobj	_	Gloss=homme
+6	la	lá	ADP	pp	_	5	case	_	Gloss=dans
+7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+8	bɛɛ	bɛ́ɛ	PRON	prn	_	11	nsubj	_	Gloss=chaque
+9	b’	b'	AUX	pm	Polarity=Pos|Aspect=Imp	11	aux	_	Gloss=IPFV.AFF
+10	o	ò	PRON	prn	_	11	obj	_	Gloss=ce
+11	dɔn	dɔ́n	VERB	v	_	_	_	_	Gloss=connaître
+12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+13	nka	nká	CCONJ	conj	_	_	_	_	Gloss=mais
+14	fɛn	fɛ́n	NOUN	n	_	17	nmod:poss	_	Gloss=chose
+15	don	dòn	AUX	cop	_	14	cop	_	Gloss=PRES
+16	min	mín	PRON	prn	PronType=Rel	14	acl	_	Gloss=REL
+17	masala	másala	NOUN	n	_	19	nsubj	_	Gloss=causerie
+18	man	mán	AUX	pm	Polarity=Neg	19	aux	_	Gloss=QUAL.NEG
+19	di	dí	VERB	vq	_	17	_	_	Gloss=agréable
+20	mɔgɔ	mɔ̀gɔ	NOUN	n	_	19	iobj	_	Gloss=homme
+21	si	sí	DET	dtm	_	20	det	_	Gloss=aucun
+22	ye	yé	ADP	pp	_	21	case	_	Gloss=PP
+23	k’	k'	AUX	pm	_	19	_	_	Gloss=INF
+24	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+25	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+26	dɔlɔminna	dɔ̀lɔminna	NOUN	n	_	_	_	_	Gloss=ivrogne|Morf=ivrogne,bière.de.mil,boire,AG.PRM
+27	na	ná	ADP	pp	_	26	case_	Gloss=dans	_
+28	ka	kà	AUX	pm	_	25	_	_	Gloss=INF
+29	taa	táa	NOUN	v	_	_	_	_	Gloss=marche
+30	bila	bìla	VERB	n	_	_	_	_	Gloss=mêtre
+31	dɔlɔfeerela	dɔlɔfeerela	NOUN	n	_	_	_	_	Gloss=bière.de.mil|Morf=bière.de.mil,vendre,AG.PRM
+32	la	lá	ADP	pp	_	_	_	_	Gloss=dans
+33	,	,	PUNCT	_	_	_	_	_	Gloss=,
+34	k’	k'	AUX	pm	_	_	_	_	Gloss=INF
+35	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+36	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+37	dɔlɔ	dɔ̀lɔ	NOUN	n	_	_	_	_	Gloss=bière.de.mil
+38	dilanna	dilanna	NOUN	n	_	_	_	_	Gloss=fabriquer|Morf=fabriquer,AG.PRM
+39	na	ná	ADP	pp	_	_	_	_	Gloss=dans
+40	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+41	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+42	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+43	bila	bìla	VERB	v	_	_	_	_	Gloss=mettre
+44	dɔlɔminbali	dɔlɔminbali	NOUN	n	VerbalForm=Part	_	_	_	Gloss=consommation.d'alcool|Morf=consommation.d'alcool,bière.de.mil,boire,PTCP.PRIV
+45	la	lá	ADP	pp	_	_	_	_	Gloss=dans
+46	,	,	PUNCT	_	_	_	_	_	Gloss=,
+47	mɔgɔ	mɔ̀gɔ	NOUN	n	_	_	_	_	Gloss=homme
+48	si	sí	DET	dtm	_	_	_	_	Gloss=aucun
+49	t’	t'	AUX	cop	Polarity=Neg	_	_	_	Gloss=COP.NEG
+50	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+51	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=vers
+52	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+53	dɔlɔ	dɔ̀lɔ	NOUN	n	_	_	_	_	Gloss=bière.de.mil
+54	mankutu	mànkutu	NOUN	n	_	_	_	_	Gloss=renom
+55	fɔ	fɔ́	VERB	v	_	_	_	_	Gloss=dire
+56	.	.	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = jakite-dolominbana.dis.html:5
+# text = Wa dɔlɔminnaba ka ko man di mɔgɔ si ye: a somɔgɔw, a teriw, a jɛɲɔgɔnw, hali mɔgɔw minnu t’a dɔn olu bɛ ɲigin a la n’u y’a tɛmɛtɔ ye.
+1	Wa	wà	PART	prt	_	6	&	_	Gloss=bon
+2	dɔlɔminnaba	dɔlɔminnaba	NOUN	n	_	4	nmod:poss	_	Gloss=ivrogne.AUG
+3	ka	ká	ADP	pp	_	2	case	_	Gloss=POSS
+4	ko	kó	NOUN	n	_	_	_	_	Gloss=affaire
+5	man	mán	AUX	pm	Polarity=Neg	6	aux	_	Gloss=QUAL.NEG
+6	di	dí	VERB	vq	_	_	_	_	Gloss=agréable
+7	mɔgɔ	mɔ̀gɔ	NOUN	n	_	6	iobj	_	Gloss=homme
+8	si	sí	DET	dtm	_	7	det	_	Gloss=aucun
+9	ye	yé	ADP	pp	_	7	case	_	Gloss=PP
+10	:	:	PUNCT	_	_	6	punct	_	Gloss=:
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	nmod:poss	_	Gloss=3SG
+12	somɔgɔw	somɔgɔw	NOUN	n	Number=Plur	_	_	_	Gloss=personne.de.la.famille|Morf=personne.de.la.famille,maison,homme,PL
+13	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	nmod:poss	_	Gloss=3SG
+15	teriw	teriw	NOUN	n	Number=Plur	_	_	_	Gloss=ami|Morf=ami,PL
+16	,	,	PUNCT	_	_	15	punct	_	Gloss=,
+17	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	18	nmod:poss	_	Gloss=3SG
+18	jɛɲɔgɔnw	jɛɲɔgɔnw	NOUN	n	Number=Plur	_	_	_	Gloss=associé|Morf=associé,assembler,RECP,PL
+19	,	,	PUNCT	_	_	18	punct	_	Gloss=,
+20	hali	háli	PART	prt	_	25	_	_	Gloss=même
+21	mɔgɔw	mɔgɔw	NOUN	n	Number=Plur	28	nsubj	_	Gloss=homme|Morf=homme,PL
+22	minnu	mínnu	PRON	prn	Number=Plur	21	det	_	Gloss=REL.PL2|Morf=REL.PL2,REL,PL2
+23	t’	t'	AUX	cop	Polarity=Neg	25	aux	_	Gloss=COP.NEG
+24	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	25	obj	_	Gloss=3SG
+25	dɔn	dɔ́n	VERB	v	_	_	_	_	Gloss=connaître
+26	olu	òlú	PRON	pers	PronType=Prs|Number=Plur	21	dislocated	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
+27	bɛ	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	28	aux	_	Gloss=IPFV.AFF
+28	ɲigin	ɲígin	VERB	v	_	_	_	_	Gloss=avoir.la.nausée
+29	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	28	obl	_	Gloss=3SG
+30	la	lá	ADP	pp	_	29	case	_	Gloss=dans
+31	n’	n'	SCONJ	conj	_	_	_	_	Gloss=si
+32	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	36	nsubj	_	Gloss=3PL
+33	y’	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	36	aux	_	Gloss=PFV.TR
+34	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	35	nmod:poss	_	Gloss=3SG
+35	tɛmɛtɔ	tɛmɛtɔ	VERB	ptcp	VerbalForm=Part|Aspect=Prog	36	obj	_	Gloss=passer|Morf=passer,PTCP.PROG
+36	ye	yé	VERB	v	_	_	_	_	Gloss=voir
+37	.	.	PUNCT	_	_	35	punct	_	Gloss=.
+
+# sent_id = jakite-dolominbana.dis.html:6
+# text = Wa a ka ca a la i b’a sɔrɔ a ko man di a yɛrɛ ye.
+1	Wa	wà	PART	prt	_	4	_	_	Gloss=bon
+2	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+3	ka	ká	AUX	pm	Polarity=Pos	4	aux	_	Gloss=QUAL.AFF
+4	ca	cá	VERB	vq	_	_	_	_	Gloss=nombreux
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obl	_	Gloss=3SG
+6	la	lá	ADP	pp	_	5	case	_	Gloss=dans
+7	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	10	nsubj	_	Gloss=2SG
+8	b’	b'	AUX	pm	Polarity=Pos|Aspect=Imp	10	aux	_	Gloss=IPFV.AFF
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	obj	_	Gloss=3SG
+10	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	nmod:poss	_	Gloss=3SG
+12	ko	kó	NOUN	n	_	14	nsubj	_	Gloss=affaire
+13	man	mán	AUX	pm	Polarity=Neg	14	aux	_	Gloss=QUAL.NEG
+14	di	dí	VERB	vq	_	_	_	_	Gloss=agréable
+15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	iobj	_	Gloss=3SG
+16	yɛrɛ	yɛ̀rɛ̂	DET	dtm	_	15	det	_	Gloss=même
+17	ye	yé	ADP	pp	_	15	case	_	Gloss=PP
+18	.	.	PUNCT	_	_	15	punct	_	Gloss=.
+
+# sent_id = jakite-dolominbana.dis.html:7
+# text = Anw fɛ yan, n’i ye mɔgɔ caman ɲininka fɛn min ye dɔlɔminbana ye, bɛɛ b’i ta fɔ.
+1	Anw	ánw	PRON	pers	PronType=Prs|Number=Plur|Person=1|PronType=Emp	_	_	_	Gloss=1PL.EMPH
+2	fɛ	fɛ̀	ADP	pp	_	1	case	_	Gloss=vers
+3	yan	yàn	ADV	adv	_	1	advmod	_	Gloss=ici
+4	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+5	n’	n'	SCONJ	conj	_	10	mark	_	Gloss=si
+6	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	10	nsubj	_	Gloss=REFL
+7	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	10	aux	_	Gloss=PFV.TR
+8	mɔgɔ	mɔ̀gɔ	NOUN	n	_	_	_	_	Gloss=homme
+9	caman	cáman	ADJ	adj	AdjType=Attr	8	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+10	ɲininka	ɲìninka	VERB	v	_	_	_	_	Gloss=interroger
+11	fɛn	fɛ́n	NOUN	n	_	14	nsubj	_	Gloss=chose
+12	min	mín	DET	dtm	PronType=Rel	11	det	_	Gloss=REL
+13	ye	yé	AUX	cop	Polarity=Pos	14	cop	_	Gloss=EQU
+14	dɔlɔminbana	dɔlɔminbana	NOUN	n	_	_	_	_	Gloss=consommation.d'alcool|Morf=consommation.d'alcool,bière.de.mil,boire,maladie
+15	ye	yé	ADP	pp	_	14	case	_	Gloss=PP
+16	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+17	bɛɛ	bɛ́ɛ	PRON	dtm	_	21	nsubj	_	Gloss=tout
+18	b’	b'	AUX	pm	Polarity=Pos|Aspect=Imp	21	aux	_	Gloss=IPFV.AFF
+19	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	20	nmod:poss	_	Gloss=REFL
+20	ta	tá	NOUN	n	_	21	obj	_	Gloss=propriété
+21	fɔ	fɔ́	VERB	v	_	_	_	_	Gloss=dire
+22	.	.	PUNCT	_	_	21	punct	_	Gloss=.
+
+# sent_id = jakite-dolominbana.dis.html:8
+# text = Dɔ n’a fɔ ko delina don dɔlɔ la fo ka taa se yɔrɔ ma, i tɛ se ka ɲɛ a kɔ bilen; dɔw ko minnu bɛ min kɛ fo k’u bɔ k’u bin duguma k’olu de ye dɔlɔmibanagatɔw ye; dɔw yɛrɛ fana b’a fɔ ko minnu bɛ ɲɔdɔlɔ ani “duwɛn” min, k’olu de man kɛnɛ.
+1	Dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+2	n’	n'	AUX	pm	Tense=Fut|Polarity=Pos	_	_	_	Gloss=CERT
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	fɔ	fɔ́	VERB	v	_	_	_	_	Gloss=dire
+5	ko	kó	AUX	cop	_	_	_	_	Gloss=QUOT
+6	delina	dèlina	NOUN	n	_	_	_	_	Gloss=habitude|Morf=habitude,habitude,MNT1
+7	don	dòn	AUX	cop	_	_	_	_	Gloss=PRES
+8	dɔlɔ	dɔ̀lɔ	NOUN	n	_	_	_	_	Gloss=bière.de.mil
+9	la	lá	ADP	pp	_	_	_	_	Gloss=dans
+10	fo	fó	X	prep/conj	_	_	_	_	Gloss=jusqu'à
+11	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+12	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+13	se	sé	VERB	v	_	_	_	_	Gloss=arriver
+14	yɔrɔ	yɔ́rɔ	NOUN	n	_	_	_	_	Gloss=lieu
+15	ma	mà	ADP	pp	_	_	_	_	Gloss=à
+16	,	,	PUNCT	_		_	_	_	Gloss=,
+17	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+18	tɛ	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	_	_	_	Gloss=IPFV.NEG
+19	se	sé	VERB	v	_	_	_	_	Gloss=arriver
+20	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+21	ɲɛ	ɲɛ̀	VERB	v	_	_	_	_	Gloss=réussir
+22	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+23	kɔ	kɔ́	ADP	pp	_	_	_	_	Gloss=après
+24	bilen	bìlen	ADV	adv	_	_	_	_	Gloss=encore
+25	;	;	PUNCT	_		_	_	_	Gloss=;
+26	dɔw	dɔw	DET	dtm	Number=Plur	_	_	_	Gloss=certain|Morf=certain,PL
+27	ko	kó	AUX	cop	_	_	_	_	Gloss=QUOT
+28	minnu	mínnu	PRON	prn	Number=Plur	_	_	_	Gloss=REL.PL2|Morf=REL.PL2,REL,PL2
+29	bɛ	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+30	min	mìn	NOUN	n	_	_	_	_	Gloss=boire
+31	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+32	fo	fó	X	prep/conj	_	_	_	_	Gloss=jusqu'à
+33	k’	k'	AUX	pm	_	_	_	_	Gloss=INF
+34	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+35	bɔ	bɔ́	VERB	v	_	_	_	_	Gloss=sortir
+36	k’	k'	AUX	pm	_	_	_	_	Gloss=INF
+37	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+38	bin	bìn	VERB	v	_	_	_	_	Gloss=tomber
+39	duguma	duguma	NOUN	n	_	_	_	_	Gloss=terre|Morf=terre,COM
+40	k’	k'	AUX	cop	_	_	_	_	Gloss=QUOT
+41	olu	òlú	PRON	pers	PronType=Prs|Number=Plur	_	_	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
+42	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+43	ye	yé	AUX	cop	Polarity=Pos	_	_	_	Gloss=EQU
+44	dɔlɔmibanagatɔw	dɔlɔminbanagatɔw	NOUN	n	Number=Plur	_	_	_	Gloss=consommation.d'alcool|Morf=consommation.d'alcool,bière.de.mil,malade,maladie,AG.OCC,ST,PL
+45	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+46	;	;	PUNCT	_		_	_	_	Gloss=;
+47	dɔw	dɔw	DET	dtm	Number=Plur	_	_	_	Gloss=certain|Morf=certain,PL
+48	yɛrɛ	yɛ̀rɛ̂	DET	dtm	_	_	_	_	Gloss=même
+49	fana	fána	PART	prt	_	_	_	_	Gloss=aussi
+50	b’	b'	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+51	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+52	fɔ	fɔ́	VERB	v	_	_	_	_	Gloss=dire
+53	ko	kó	AUX	cop	_	_	_	_	Gloss=QUOT
+54	minnu	mínnu	PRON	prn	Number=Plur	_	_	_	Gloss=REL.PL2|Morf=REL.PL2,REL,PL2
+55	bɛ	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+56	ɲɔdɔlɔ	ɲɔdɔlɔ	NOUN	n	_	_	_	_	Gloss=mil|Morf=mil,bière.de.mil
+57	ani	àni	X	prep/conj	_	_	_	_	Gloss=ainsi.que
+58	“	“	X	_	_	_	_	_	Gloss=“
+59	duwɛn	duwɛn	NOUN	n	_	_	_	_	Gloss=ETRG.FRA
+60	”	”	X	_	_	_	_	_	Gloss=”
+61	min	mìn	VERB	v	_	_	_	_	Gloss=boire
+62	,	,	PUNCT	_		_	_	_	Gloss=,
+63	k’	k'	AUX	cop	_	_	_	_	Gloss=QUOT
+64	olu	òlú	PRON	pers	PronType=Prs|Number=Plur	_	_	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
+65	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+66	man	mán	AUX	pm	Polarity=Neg	_	_	_	Gloss=QUAL.NEG
+67	kɛnɛ	kɛ́nɛ	X	vq/adj	_	_	_	_	Gloss=en.bonne.santé
+68	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = jakite-dolominbana.dis.html:9
+# text = Caman ko dɔlɔ ye minnu ta tiɲɛ, k’olu de ko don.
+1	Caman	cáman	PRON	adj	AdjType=Attr	_	_	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+2	ko	kó	AUX	cop	_	1	aux	_	Gloss=QUOT
+3	dɔlɔ	dɔ̀lɔ	NOUN	n	_	7	nsubj	_	Gloss=bière.de.mil
+4	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	7	aux	_	Gloss=PFV.TR
+5	minnu	mínnu	PRON	prn	Number=Plur	6	nmod:poss	_	Gloss=REL.PL2|Morf=REL.PL2,REL,PL2
+6	ta	tá	NOUN	n	_	7	obj	_	Gloss=propriété
+7	tiɲɛ	tíɲɛ	VERB	v	_	_	_	_	Gloss=gâter
+8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+9	k’	k'	AUX	cop	_	7	_	_	Gloss=QUOT
+10	olu	òlú	PRON	pers	PronType=Prs|Number=Plur	12	nmod:poss	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
+11	de	dè	PART	prt	_	10	advmod	_	Gloss=FOC
+12	ko	kó	NOUN	n	_	_	_	_	Gloss=affaire
+13	don	dòn	AUX	cop	_	12	cop	_	Gloss=PRES
+14	.	.	PUNCT	_	_	12	punct	_	Gloss=.
